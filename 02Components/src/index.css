@@ -1,0 +1,23 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: 'Poppins', sans-serif;
+}
+body,html{
+height: 100%;
+width: 100%;
+}
+.cards{
+background-color: pink;
+border-radius: 10px;
+margin: 20PX;
+padding: 20px;
+}
+
+.nav{
+background-color: rgb(5, 105, 131);
+color: violet;
+padding: 10px;
+margin: 5px;
+}
