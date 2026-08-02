@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "halvetica neue";
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+/* .nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 14px 20px;
+} */
+
+.Light{
+background-color: lightseagreen;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 14px 20px;
+}
+.Dark{
+background-color: darkgreen;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 14px 20px;
+}
+
+.nav2{
+display: flex;
+gap:30px;
+}
